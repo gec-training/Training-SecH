@@ -1,9 +1,6 @@
-# Training-SecH
-Name: Ajaya Kumar Sahoo
-Phone no: 9692929618
-Email Id: ajx.work.studio.dev@gmail.com
+#Training-SecH
+=============
 
-- Name: Biswajit Sahoo
-- Phone: 7894337682
-- Email: biswajitsahoo87636@gmail.com
-- 
+Manis Rout, 9836225134, routmanis72@gmail.com
+Ajaya Kumar Sahoo, 9692929618, ajx.work.studio.dev@gmail.com
+Biswajit Sahoo, 7894337682, biswajitsahoo87636@gmail.com
